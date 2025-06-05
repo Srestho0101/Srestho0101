@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srestho</h1>
+<h2 align="center">CEO of Stark 98 HQ</h2>
 <h3 align="center">A programmer who codes in Samsung Galaxy M05</h3>
 
 - 🔭 I’m currently working on [My portfolio](https://srestho0101.github.io/Coolio-Portfolio/)
@@ -9,7 +10,7 @@
 
 - ⚡ Fun fact **My keyboard dosen't have ctrl + c buttons 😫**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://wa.me/8801711222950?text=Hello%20Srestho!%20I%20found%20you%20from%20your%20GitHub.">WhatsApp</a></h3>
 <p align="left">
 </p>
 
