@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srestho</h1>
-<h2 align="center">🧠 CEO of Stark 98 HQ</h2>
+<h2 align="center">🧠 Founder of Stark 98 HQ</h2>
 <h3 align="center">A passionate programmer crafting code on a Samsung Galaxy M05 📱</h3>
 
 ---
