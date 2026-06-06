@@ -3,7 +3,7 @@
 # Hi there, I'm Srestho 👋
 
 <!-- Dynamic Typing Animation Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+Drones+with+low+budget;Exploring+Machine+Learning+Pipelines;Crafting+Backend+Architectures;Preparing+for+the+upcoming+future)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+Drones;Exploring+Machine+Learning+Pipelines;Crafting+Backend+Architectures;Preparing+for+the+upcoming+future)](https://git.io/typing-svg)
 
 *Focusing on building intelligent systems. Understanding how machines communicate and learn.*
 
