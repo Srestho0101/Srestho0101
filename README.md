@@ -166,6 +166,7 @@ Architecture notes, live demos, and detailed write-ups for every project.
 
 <br>
 
+<!--
 <div align="center">
 
 ### 🐍 Contribution Graph
@@ -175,6 +176,8 @@ Architecture notes, live demos, and detailed write-ups for every project.
 <sub>Auto-generated nightly from commit activity — see setup note below if the graph above hasn't appeared yet.</sub>
 
 </div>
+-->
+
 
 <br>
 
