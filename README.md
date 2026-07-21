@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D10,50:12151A,100:0B0D10&height=200&section=header&text=Srestho&fontSize=68&fontColor=5EEAD4&fontAlignY=42&desc=AI%20%26%20Machine%20Learning%20Developer&descAlignY=62&descSize=18&descColor=8B93A1&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1100&color=5EEAD4&center=true&vCenter=true&width=580&lines=Computer+Vision+%7C+NLP+%7C+RAG+Systems;Quantized+Edge+AI+%E2%80%A2+Real-Time+Inference;Cloud-to-Metal+ML+Pipelines" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1100&color=5EEAD4&center=true&vCenter=true&width=580&lines=Computer+Vision+%7C+NLP+%7C+RAG+Systems;Quantized+Edge+AI+%E2%80%A2+Real-Time+Inference;I+use+Arch,+btw" alt="Typing SVG" />
 
 <br><br>
 
