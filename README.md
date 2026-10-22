@@ -20,22 +20,21 @@ Currently open to internships in production AI (agents, edge inference, or anyth
 
 ### selected work
 
+**Cow Farm Management System** — [repo](https://github.com/Srestho0101/giggling-cows)  
+Created a complete software for a local cow farm. FastAPI + Next.js + PostgreSQL + SQLAlchemy. Covers animal records, daily workflows, auth, and live operations under normal production constraints.
+
 **Pixagent** — [repo](https://github.com/Srestho0101/Pixagent)  
 Laptop repair shop agent. Technicians log tickets; customers ask the assistant about status.  
 The agent only answers through tool calls against live repair data. No free-form guessing. FastAPI + PostgreSQL/Supabase, JWT, streaming responses, explicit anti-hallucination constraints.
+
+**Result Management System** *(contributor)* — [repo](https://github.com/Srestho0101/result-management-system)  
+Added a Mistral tool-calling layer on top of a Flask school platform so teachers can ask natural-language questions over student data. Tools respect role-based access; the model never gets a raw database dump.
 
 **Autonomous Desktop Agent** — [repo](https://github.com/Srestho0101/AI-computer-use)  
 Multimodal agent that can see and control a Linux desktop on machines with ~4GB RAM.  
 In-memory frame capture + kernel-level scancode injection on Wayland. Perception stays local and light; no heavy desktop automation stack.
 
-**Real-Time Drone Vision** — [repo](https://github.com/Srestho0101/monster-vision)  
-Live drone feed → Arch Linux box → YOLOv8n inference.  
-Fine-tuned the nano model and applied dynamic quantization so detection stays usable while the drone is moving.
-
-**Result Management System** *(contributor)* — [repo](https://github.com/Srestho0101/result-management-system)  
-Added a Mistral tool-calling layer on top of a Flask school platform so teachers can ask natural-language questions over student data. Tools respect role-based access; the model never gets a raw database dump.
-
-More context and write-ups: [srestho.online](https://srestho.online)
+Personal domain: [srestho.online](https://srestho.online)
 
 ---
 
@@ -46,7 +45,7 @@ More context and write-ups: [srestho.online](https://srestho.online)
 - **Boring reliability** — auth, streaming, error paths, and “what happens when the model is wrong” get designed early  
 - **Small surfaces** — prefer a few well-scoped tools over an agent that can do everything and therefore nothing safely  
 
-Stack I actually reach for: Python, FastAPI, Flask, PyTorch, Mistral (tool calling), YOLOv8, PostgreSQL/Supabase, SQLAlchemy, SQLite, JWT, SSE, Linux (Arch), Wayland, Docker, Git.
+Stack I actually reach for: Python, FastAPI, PostgreSQL, SQLAlchemy, SQLite, Next.js, Keras, Scikit Learn, PyTorch, Linux (Arch), Docker, Git.
 
 ---
 
