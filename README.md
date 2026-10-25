@@ -34,7 +34,7 @@ Added a Mistral tool-calling layer on top of a Flask school platform so teachers
 Multimodal agent that can see and control a Linux desktop on machines with ~4GB RAM.  
 In-memory frame capture + kernel-level scancode injection on Wayland. Perception stays local and light; no heavy desktop automation stack.
 
-Personal domain: [srestho.online](https://srestho.online)
+Portfolio site: [srestho.vercel.app](https://srestho.vercel.app)
 
 ---
 
